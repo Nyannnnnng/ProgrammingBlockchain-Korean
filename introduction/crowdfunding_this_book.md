@@ -1,4 +1,4 @@
-## Crowdfunding this book {#crowdfunding-this-book}
+## 후원 {#crowdfunding-this-book}
 
 계속해서 좋은 물건을 만들고 싶다면 피자, 스시, 커피가 필요합니다. 이를 위해 충분한 코인을 얻는 것은 우리의 의무입니다. 또한 우리는 여러분의 피드백을 듣지 않고 책 전체를 쓰기에는 너무 게으릅니다.
 
