@@ -1,4 +1,4 @@
-## 보완 읽기 {#complementary-reading}
+## 상보적인 읽기 {#complementary-reading}
 
 이 책을 보완하는 데 사용할 수 있는 도서는 다음과 같습니다.
 
