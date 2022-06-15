@@ -1,4 +1,4 @@
-## Why this book?{#why-do-people-hate-new-technologies-bitcoin}
+## 왜 이 책인가? {#why-do-people-hate-new-technologies-bitcoin}
 
 비트코인을 이해하는 것은 상당히 어려운 과제입니다. 그것에 대해 완전히 생소할 수도 있습니다. 
 
