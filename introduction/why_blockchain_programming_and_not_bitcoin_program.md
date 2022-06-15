@@ -1,4 +1,4 @@
-## 왜 비트코인 프로그래밍이 아닌 블록체인 프로그래밍인가? {#why-blockchain-programming-and-not-bitcoin-programming}
+## 왜 비트코인 프로그래밍이 아니라 블록체인 프로그래밍인가? {#why-blockchain-programming-and-not-bitcoin-programming}
 
 금이 보석이듯이 비트코인은 블록체인의 보석입니다.
 
